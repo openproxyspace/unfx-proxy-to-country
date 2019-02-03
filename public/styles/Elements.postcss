@@ -1,0 +1,48 @@
+:root {
+    --green-color: #31bc86;
+    --grey-color: #8c99a7;
+    --blue-color: #5396d8;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+    border-radius: 0.25em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: color-mod(var(--blue-color) alpha(15%));
+    border-radius: 0.25em;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #fafafa;
+}
+
+/* --------------------------------
+  Buttons section
+-------------------------------- */
+
+button {
+    font-weight: 900;
+    font-size: 1em;
+    border-radius: 1.75em;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    padding: 0.75em 1.75em;
+    margin-right: 2em;
+    background-color: color-mod(var(--green-color) alpha(15%));
+    color: color-mod(var(--green-color) alpha(75%));
+    transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    box-shadow: 0 0.25em 1em color-mod(var(--green-color) alpha(5%));
+
+    &:hover {
+        color: rgba(255, 255, 255, 0.75);
+        background-color: rgba(49, 188, 135, 0.65);
+        transform: translateY(-5%);
+    }
+
+    &:active {
+        transform: translateY(7.5%);
+    }
+}
