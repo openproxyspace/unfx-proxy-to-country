@@ -2,7 +2,7 @@
     <img width="64px" src="https://i.ibb.co/BBB64zX/flag-1.png">
 </p>
 
-![](https://openproxy.space/static/images/uptc.gif)
+<img style="float: right; border: 1px solid #333;" src="https://openproxy.space/static/images/uptc.gif">
 
 ## Features
 - Remove duplicates
