@@ -2,8 +2,7 @@
     <img width="64px" src="https://i.ibb.co/BBB64zX/flag-1.png">
 </p>
 
-![](https://i.ibb.co/BcpfPMZ/PTC0.png)
-![](https://i.ibb.co/CbM2gPP/PTC1.png)
+![](https://openproxy.space/static/images/uptc.gif)
 
 ## Features
 - Remove duplicates
