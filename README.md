@@ -15,7 +15,7 @@
 Automatically checking for updates and notification if the latest version is available.
 
 ## Support 💖 
-😎 Become a [patron](https://www.patreon.com/assnctr) for support this project and my efforts if you 👍 this tool.
+Become a [patron](https://www.patreon.com/assnctr) for support this project and my efforts if you 👍 this tool.
 
 Donation:
 - BTC: `16eS4hfgKHKQcPYPeN1VdSge8yfC4YtftT`
