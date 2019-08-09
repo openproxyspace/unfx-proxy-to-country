@@ -13,25 +13,8 @@
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
-## Open Proxy Space
-- [Open Proxy Space](https://openproxy.space)
-- [Public Proxy Lists](https://openproxy.space/lists/)
-- [Buy Proxies](https://openproxy.space/darth)
-- [Free Proxy List](https://openproxy.space/free-proxy-list)
-- [Proxy Filter](https://openproxy.space/filter)
-
 ## Utilify
-- [Password Generator](https://utilify.me/password-generator)
-- [Hash Generator](https://utilify.me/hash-generator)
-- [Remove Duplicates](https://utilify.me/remove-duplicates)
-- [Randomize Lines](https://utilify.me/randomize-lines)
-- [Github Release Stats](https://utilify.me/github-release-stats)
-- [Hide Referrer](https://utilify.me/hide-referrer)
-
-## Unfx Proxy Tools
-- [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) - Powerful proxy checker with huge features and beautiful design. Easy sorting and filtering by all parameters.
-- [Unfx Proxy Parser](https://openproxy.space/software/proxy-parser) - Nextgen proxy parser with deep links crawler. Follow to internal links, third-party links. Sorting results by countries.
-- [Unfx Proxy to Country](https://openproxy.space/software/proxy-to-country) - Tool for split your proxy list from ip:port format to countries. Simple sorting and exporting.
+https://utilify.me/ - The house of online utilities.
 
 ## IP Location database
 This product includes GeoLite2 data created by MaxMind, available [here](https://dev.maxmind.com/geoip/geoip2/geolite2/).
