@@ -13,9 +13,9 @@
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
-## Open Proxy Space
-[Free Proxy List](https://openproxy.space/free-proxy-list).  
-[Buy Proxy List](https://openproxy.space/darth).
+#### Open Proxy Space
+[Premium](https://openproxy.space/premium) - Buy Proxy List  
+[Free Proxy List](https://openproxy.space/list) - Always Updated Proxy Lists
 
 ## Utilify
 https://utilify.me/ - The house of online utilities.
